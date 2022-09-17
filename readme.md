@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Deep learning and Data science Enthusiast
 -----------------------
-![](https://im5.ezgif.com/tmp/ezgif-5-d2d0a15345.gif)\
+![](https://im2.ezgif.com/tmp/ezgif-2-01300173cb.gif)\
 I've started my coding 8 months ago and started learning Deep Learning and Machine Learning Fundamentals , Computer vision , Image Processing and Object Detection , Optical Character Recognition , Data Structures and Algorithms , Object Oriented Programming , Data analytical tools like Power BI , Jupyter Lab and some basics concepts in Javascript , CSS , HTML .
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsmeprathy10@gmail.com](mailto:itsmeprathy10@gmail.com )
