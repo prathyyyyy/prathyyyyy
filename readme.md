@@ -1,15 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Im Prathy
 ==============================================================================================================================
 
-Deep learning and Data science Enthusiast
+AI engineer and Data scientist
 -----------------------
-![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r2paq56xgrd5aa3qeonf2z9ypjhvp2js012yx4n6&rid=giphy.gif&ct=g)\
-I've started my coding 8 months ago and started learning Deep Learning and Machine Learning Fundamentals , Computer vision , Image Processing and Object Detection , Optical Character Recognition , Data Structures and Algorithms , Object Oriented Programming , Data analytical tools like Power BI , Jupyter Lab and some basics concepts in Javascript , CSS , HTML .
+![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r2paq56xgrd5aa3qeonf2z9ypjhvp2js012yx4n6&rid=giphy.gif&ct=g)
+
+
+I've started my coding an year ago and started learning Deep Learning and Machine Learning Fundamentals(ANN,CNN,GAN,Transformers, Reinforcement Learning) , Computer vision , Image Processing and Object Detection , Optical Character Recognition , Data Structures and Algorithms , Object Oriented Programming , Data analytical tools like Power BI , Jupyter Lab and some basics concepts in Javascript , CSS , HTML .
 * 🌍  I'm based in India
-* ✉️  You can contact me at [itsmeprathy10@gmail.com](mailto:itsmeprathy10@gmail.com )
-* 🧠  I'm currently learning concepts in Tensorflow , Keras , Sci-Kit Learn , Numpy , Pandas , Matplotlib , Plotly , Computer Vision , Pytesseract (OCR) , Pytest , Xgboost , LGBM.
-* 🤝  I'm open to collaborating on open source project in fields like deep learning and data science.
-* ⚡  I just love to learn mathematics for machine learning , statistics and probability for data science.
+* ✉️  You can contact me at [itsmeprathy10@gmail.com](mailto:csprathyy@gmail.com )
+* 🧠  Proficient in Python, SQL, Tensorflow , Keras , Sci-Kit Learn , Numpy , Pandas , Matplotlib , Plotly , Computer Vision , Pytesseract (OCR) , Microsoft Azure for Machine Learning and Data science. 
+* 🤝  I'm open to collaborating on open source projects and contribute in fields like deep learning and data science.
+* ⚡  I love to learn mathematics and build open 
+* Open for Machine learning, Data science and Software engineering roles.
 
 ### Skills
 
