@@ -11,7 +11,7 @@ I've started my coding an year ago and started learning Deep Learning and Machin
 * ✉️  You can contact me at [itsmeprathy10@gmail.com](mailto:csprathyy@gmail.com )
 * 🧠  Proficient in Python, SQL, Tensorflow , Keras , Sci-Kit Learn , Numpy , Pandas , Matplotlib , Plotly , Computer Vision , Pytesseract (OCR) , Microsoft Azure for Machine Learning and Data science. 
 * 🤝  I'm open to collaborating on open source projects and contribute in fields like deep learning and data science.
-* ⚡  I love to learn mathematics and build open 
+* ⚡  I love to learn mathematics and build some projects in AI
 * Open for Machine learning, Data science and Software engineering roles.
 
 ### Skills
