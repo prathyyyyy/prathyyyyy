@@ -6,7 +6,7 @@ AI engineer and Data scientist
 ![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r2paq56xgrd5aa3qeonf2z9ypjhvp2js012yx4n6&rid=giphy.gif&ct=g)
 
 
-I've started my coding an year ago and started learning Deep Learning and Machine Learning Fundamentals(ANN,CNN,GAN,Transformers, Reinforcement Learning) , Computer vision , Image Processing and Object Detection , Optical Character Recognition , Data Structures and Algorithms , Object Oriented Programming , Data analytical tools like Power BI , Jupyter Lab and some basics concepts in Javascript , CSS , HTML .
+Self taught Data scientist and AI/ML engineer, I've started my coding an year ago and started learning Deep Learning and Machine Learning Fundamentals(ANN,CNN,GAN,Transformers, Reinforcement Learning) , Computer vision , Image Processing and Object Detection , Optical Character Recognition , Data Structures and Algorithms , Object Oriented Programming , Data analytical tools like Power BI , Jupyter Lab and some basics concepts in Javascript , CSS , HTML .
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsmeprathy10@gmail.com](mailto:csprathyy@gmail.com )
 * 🧠  Proficient in Python, SQL, Tensorflow , Keras , Sci-Kit Learn , Numpy , Pandas , Matplotlib , Plotly , Computer Vision , Pytesseract (OCR) , Microsoft Azure for Machine Learning and Data science. 
