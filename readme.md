@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Im Prathy
 ==============================================================================================================================
 
-AI engineer and Data scientist
+Data scientist and Engineer
 -----------------------
 ![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r2paq56xgrd5aa3qeonf2z9ypjhvp2js012yx4n6&rid=giphy.gif&ct=g)
 
 
-Self taught Data scientist and AI/ML engineer, I've started my coding an year ago and started learning Deep Learning and Machine Learning Fundamentals(ANN,CNN,GAN,Transformers, Reinforcement Learning) , Computer vision , Image Processing and Object Detection , Optical Character Recognition , Data Structures and Algorithms , Object Oriented Programming , Data analytical tools like Power BI , Jupyter Lab and some basics concepts in Javascript , CSS , HTML .
+Self-taught Data scientist and Data Engineer, I started my coding a year ago and started learning Deep Learning and Machine Learning Fundamentals(ANN, CNN, GAN, Transformers, Reinforcement Learning), Computer vision, Image Processing and Object Detection, Optical Character Recognition, Data Structures, and Algorithms, Object Oriented Programming, Data analytical tools like Power BI, Jupyter Lab and some basics concepts in Javascript, CSS, HTML.
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsmeprathy10@gmail.com](mailto:csprathyy@gmail.com )
-* 🧠  Proficient in Python, SQL, Tensorflow , Keras , Sci-Kit Learn , Numpy , Pandas , Matplotlib , Plotly , Computer Vision , Pytesseract (OCR) , Microsoft Azure for Machine Learning and Data science. 
+* 🧠  Proficient in Python, SQL, Tensorflow, Keras , Sci-Kit Learn, Numpy, Pandas, Matplotlib, Plotly, Computer Vision, Pytesseract (OCR), Microsoft Azure for Machine Learning and Data science. 
 * 🤝  I'm open to collaborating on open source projects and contribute in fields like deep learning and data science.
 * ⚡  I love to learn mathematics and build some projects in AI
 * Open for Machine learning, Data science and Software engineering roles.
