@@ -6,7 +6,7 @@
 
 Data Systems and Machine Learning Engineer with experience designing high-throughput batch and real-time data pipelines, lakehouse architectures, and production ML platforms on AWS and Azure. Skilled in Spark, Kafka, Databricks, and vector search systems, with a strong focus on building scalable, reliable data and ML infrastructure for real-world applications.
 
-🌍 India  
+🌍 India and open for relocation
 ✉️ csprathyy@gmail.com  
 🤝 Open to Data Engineer | Data Scientist | ML Engineer roles
 
