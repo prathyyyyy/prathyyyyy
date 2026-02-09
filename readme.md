@@ -1,76 +1,101 @@
-Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Im Prathy
-==============================================================================================================================
+# Hi 👋 I'm Prathy P
 
-## Data Scientist and Engineer
------------------------
-![](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r2paq56xgrd5aa3qeonf2z9ypjhvp2js012yx4n6&rid=giphy.gif&ct=g)
+## Data Systems & Machine Learning Engineer
 
-### **Recent graduate and Microsoft Certified Data Science Associate (DP-100) with 1 year of hands-on experience as a data scientist/engineer, specializing in AI and big data. Proficient in Azure and AWS, skilled in transforming complex data into valuable insights. Committed to driving innovation and efficiency through continuous learning.**
+**Professional Summary**
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [csprathyy@gmail.com](mailto:csprathyy@gmail.com )
-* 🧠  Proficient in Python (Tensorflow, Sckitlearn, Pyspark, Kafka, Greykite, Plotly, Pandas, Pytesseract, OpenCV) and SQL.
-* ☁️  Cloud - Azure (DataFactory, Devops, AzureML) , Databricks, and AWS (Glue, Lambda, Athena).
+Data Systems and Machine Learning Engineer with experience designing high-throughput batch and real-time data pipelines, lakehouse architectures, and production ML platforms on AWS and Azure. Skilled in Spark, Kafka, Databricks, and vector search systems, with a strong focus on building scalable, reliable data and ML infrastructure for real-world applications.
 
-* 🤝  I'm open to collaborating on open source projects and contribute in fields like deep learning and data science.
-* ⚡  I love to learn mathematics and build some projects in AI and Data.
-* Open for Data Scientist, Data Engineer and Data Analyst,  and Software Engineering (ML) roles.
+🌍 India  
+✉️ csprathyy@gmail.com  
+🤝 Open to Data Engineer | Data Scientist | ML Engineer roles
 
+---
 
-### Certificate:
+## 🚀 What I Build
 
-[<img src="https://github.com/user-attachments/assets/4e9f7ede-d6ea-4cca-8f56-46b6036fb208" alt="Microsoft Certified: Azure Data Scientist Associate" width="800"/>](https://learn.microsoft.com/en-us/users/prathy-0029/credentials/certification/azure-data-scientist?tab=credentials-tab)
+- High-throughput **batch & real-time data pipelines** (Spark, Kafka, Kinesis, Flink)
+- **Lakehouse architectures** using Delta, Iceberg, Hudi, Unity Catalog
+- **Streaming analytics & security detection systems**
+- **ML pipelines on Spark with GPU acceleration**
+- **Vector search & semantic retrieval systems** using FAISS & embeddings
+- **Multimodal RAG systems** (text + image retrieval)
+- Production ML with monitoring, CI/CD, and drift detection
 
-- ### Link - [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/prathy-0029/credentials/certification/azure-data-scientist?tab=credentials-tab)
+---
 
+## 🧠 Core Expertise
 
+### Data Engineering
+`PySpark` `Kafka` `Kinesis` `Flink` `Databricks` `Delta Lake` `Iceberg` `Hudi` `Unity Catalog`
 
-### Skills
+### Machine Learning Systems
+`Spark ML` `XGBoost4J-Spark` `RAPIDS` `Evidently AI` `SageMaker Pipelines`
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-</p>
+### Vector & LLM Systems
+`FAISS` `Sentence-BERT` `Embeddings` `Multimodal RAG` `LangChain`
 
+### Cloud
+`AWS (Glue, Lambda, Athena, S3, SageMaker)`  
+`Azure (Databricks, Data Factory, Azure ML, DevOps)`
 
-### Socials
+### Backend
+`.NET` `PostgreSQL` `Docker` `Flask API`
 
-<p align="left">
-  <a href="https://discord.com/users/Prathyyyyyyy#2543" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.github.com/prathyyyyy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathy-p-395293228/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.twitter.com/prathyyyyyy" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</p>
+---
 
+## 🏗️ Featured Projects
 
-### Badges
+### 🔹 High-Throughput E-Commerce Streaming Analytics & Security Detection
+- Processed **67M+ events**
+- Built batch + real-time analytics pipelines
+- Apache Hudi → 50% faster queries, 40% less storage
+- Kinesis + Flink + DynamoDB for DDoS/Bot detection
 
-<b>My GitHub Stats</b>
+### 🔹 Truck Delay Prediction using Spark ML + GPU XGBoost
+- XGBoost4J-Spark + RAPIDS Accelerator
+- Production pipeline with SageMaker + Evidently AI
+- Drift monitoring, CI/CD, orchestration
 
-<a href="http://www.github.com/prathyyyyy"><img src="https://github-readme-stats.vercel.app/api?username=prathyyyyy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prathyyyyy's GitHub stats" /></a>
+### 🔹 Semantic Search & Relevance Platform
+- Sentence-BERT embeddings
+- FAISS vector retrieval
+- Iceberg storage + Dockerized Flask API
 
-<b>Top Repositories</b>
+### 🔹 Multimodal RAG Food Recommendation System
+- Text + Image embeddings
+- FAISS vector indexing
+- Streamlit app deployed on AWS
 
-<div width="100%" align="center"><a href="https://github.com/prathyyyyy/Medical-Data-Extraction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prathyyyyy&repo=Medical-Data-Extraction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/prathyyyyy/Medical-Data-Extraction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prathyyyyy&repo=Medical-Data-Extraction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🔹 Databricks Streaming ETL (Medallion Architecture)
+- Kafka + PySpark streaming joins
+- Unity Catalog governance
+- Azure DevOps CI/CD
 
-### Support Me
+---
 
-<a href="https://www.buymeacoffee.com/csprathy10g"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## 🏅 Certification
+
+**Microsoft Certified: Azure Data Scientist Associate (DP-100)**  
+https://learn.microsoft.com/en-us/users/prathy-0029/credentials/certification/azure-data-scientist
+
+---
+
+## 🛠️ Tech Stack
+
+Python • PySpark • SQL • Spark ML • Kafka • Databricks • AWS • Azure • FAISS • Docker • PostgreSQL • PowerBI
+
+---
+
+## 🤝 Let’s Collaborate
+
+I love working on:
+- Distributed data systems
+- ML at scale
+- Vector search & RAG systems
+- Streaming analytics
+
+---
+
+### ⚡ Fun Fact
+I enjoy translating complex data problems into scalable engineering systems.
